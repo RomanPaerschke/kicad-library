@@ -772,7 +772,15 @@ F regulator/lt3439.pdf
 $ENDCMP
 #
 $CMP LT3990
-D 62V, 350mA Step-Down Regulator with 2.5uA Quiescent Current and Integrated Didoes
+D 62V, Adjustable output 350mA Step-Down Regulator with 2.5uA Quiescent Current and Integrated Didoes
+$ENDCMP
+#
+$CMP LT3990-3.3
+D 62V, fixed 3.3V output 350mA Step-Down Regulator with 2.5uA Quiescent Current and Integrated Didoes
+$ENDCMP
+#
+$CMP LT3990-5
+D 62V, fixed 5V output 350mA Step-Down Regulator with 2.5uA Quiescent Current and Integrated Didoes
 $ENDCMP
 #
 $CMP LTC1044
