@@ -1,5 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP H110XNL
+D 10/100BASE-T SINGLE PORT Surface Mount Magnetics
+$ENDCMP
+#
+$CMP H1121NL
+D 10/100BASE-T SINGLE PORT Surface Mount Magnetics
+$ENDCMP
+#
+$CMP HX1188NL
+D 10/100BASE-T SINGLE PORT Surface Mount Magnetics
+F http://datasheet.octopart.com/HX1188NL-Pulse-datasheet-8371638.pdf
+$ENDCMP
+#
 $CMP TEZ0.5-D-1
 D TEZ0.5/D/x, 0.5VA, Single Secondary, Cast Resin Transformer, PCB
 K 0.5VA PCB Transformer Single Secondary
